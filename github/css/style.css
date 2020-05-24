@@ -1,0 +1,82 @@
+.fon {
+    background-color: rgba(24,181,164,0.5);
+    background-image: url("/img/sea.jpg");
+/*    display: flex;*/
+/*    align-self: auto*/
+    
+}
+
+.one-fon {
+    display: flex;
+    position: absolute;
+}
+
+.header {
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 20px auto 60px;
+}
+
+.header span {
+    display: block;
+}
+
+
+.section {
+    padding: 30px;
+}
+
+.container,
+.col-lg-6 {
+    /*    border: 2px solid red;*/
+}
+
+.form {
+    border: 5px solid #2727d9;
+    padding: 35px 20px;
+}
+
+.form-header,
+.section-header {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.form input {
+    margin-bottom: 12px;
+}
+
+.foorm-btn {
+    background-color: #2727d9;
+    margin: 11px auto;
+}
+
+.feature {
+    margin-top: 60px;
+}
+
+.feature p {
+    margin-top: 20px;
+
+}
+
+.video {
+    margin-bottom: 30px;
+
+}
+
+.feature-box {
+    height: 160px;
+}
+
+.logo {
+    padding-top: 5px;
+    position: absolute;
+}
+.my-btn{
+    position: absolute;
+    display:flex;
+    justify-content: center;
+    
+}
